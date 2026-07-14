@@ -70,4 +70,4 @@ Chathupama Kavishya
 Undergraduate Student | Machine Learning Enthusiast
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chathupama-kavishya-7523b6331/)
-- 💻 [GitHub](https://github.com/Ckavishya)
+- 💻 [GitHub](https://github.com/c-kavishya)
